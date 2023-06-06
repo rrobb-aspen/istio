@@ -17,3 +17,5 @@ spec:
       logLevel: info
       privileged: true
       provider: "multus"
+    istio_cni:
+      chained: false
